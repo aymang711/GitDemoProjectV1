@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test1 {
+public class Test2 {
 
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
@@ -12,7 +12,7 @@ public class Test1 {
 			System.out.println(" Do you want to send something else ? ,\n if no then send bye;)");
 		}
 			System.out.println("good bye");
-			System.out.println(" Plesae come back later ");
+			System.out.println("Dont come back later ;)");
 	}
 
 }
